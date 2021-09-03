@@ -26,3 +26,5 @@ const useForm = () => {
 
   return([showSuccessMessage, values, handleChanges, handleSubmit])
 }
+
+export default useForm;
